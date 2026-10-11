@@ -63,6 +63,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 ## 👨‍💻 About the Author
-Hey, I’m Vennela Lakavath, a Data Analyst. 
+Hey, I’m Chandan Raj Lakavath, a Data Analyst. 
 
  
